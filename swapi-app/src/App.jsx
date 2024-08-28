@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchData, clearData } from './store/actions/swapiActions.jsx';
+import { fetchData, clearData } from './actions/swapiActions.jsx';
 import './App.css';
 
 
